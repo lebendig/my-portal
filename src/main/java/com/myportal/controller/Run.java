@@ -7,6 +7,7 @@ public class Run {
 		
 		t.addList("ola");
 		t.printList();
+		
 	}
 
 }
